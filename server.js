@@ -25,7 +25,7 @@ connection.connect((err) => {
 });
 
 // Rota de registro de usuários
-app.post('/register', async (req, res) => {
+app.post('/index', async (req, res) => {
     const { username, password, email, telefone } = req.body;
 
     // Verifica se todos os campos obrigatórios foram preenchidos

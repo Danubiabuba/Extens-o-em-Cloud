@@ -15,8 +15,8 @@ body {
     width: 100%;
 }
 
-.login-container, .cadastro-container{
-    background-color: #e0f0f2;
+.login-container, .cadastro-container {
+    background-color: #b8d3d6;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -25,7 +25,7 @@ body {
     margin: 20px;
 }
 
-h1, h2 {
+h1{
     margin-bottom: 20px;
     color: #333;
 }
@@ -87,7 +87,7 @@ p a:hover {
         padding: 15px;
     }
 
-h1,h2 {
+h1{
     font-size: 20px;
 }
 
