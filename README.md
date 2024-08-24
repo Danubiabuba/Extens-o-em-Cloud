@@ -11,7 +11,7 @@ Bem-vindo ao Sistema de Cadastro e Login! Este sistema permite que os usuários 
 3. Clique em "Registrar".
 4. Você verá uma mensagem de confirmação se o cadastro for bem-sucedido.
 5. Exemplo de tela
-6. <img src="cadstro.png" alt="Cadstro de Usuário>
+6. <img src="../Extensao-em-Cloud/img/cadastro.png" alt="Cadstro de Usuário>
 
 
 ## 3. Login
@@ -19,7 +19,7 @@ Bem-vindo ao Sistema de Cadastro e Login! Este sistema permite que os usuários 
 2. Insira seu nome de usuário e senha.
 3. Clique em "Entrar".
 4. Você será redirecionado para a página inicial se as credenciais estiverem corretas.
-5. <img src="login.png" alt="Tela de Login">
+5. <img src="../Extensao-em-Cloud/img/login.png" alt="Tela de Login">
 
 ## 4. FAQ (Perguntas Frequntes)
 **Posso alterar meu nome de e-mail?**
