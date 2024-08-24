@@ -11,8 +11,7 @@ Bem-vindo ao Sistema de Cadastro e Login! Este sistema permite que os usuários 
 3. Clique em "Registrar".
 4. Você verá uma mensagem de confirmação se o cadastro for bem-sucedido.
 5. Exemplo de tela
-6. <img src="../Extensao-em-Cloud/img/cadastro.png" alt="Cadstro de Usuário>
-7. ![cadastro](https://github.com/user-attachments/assets/ad0797ac-98b9-410f-8d91-21a40395d564)
+6. ![cadastro](https://github.com/user-attachments/assets/ad0797ac-98b9-410f-8d91-21a40395d564)
 
 
 ## 3. Login
@@ -29,3 +28,4 @@ Atualmente, o sistema não permite alterações no nome de usuário. Para altera
 
 ## 5. Contato e Suporte
 Para suporte, entre em contato pelo e-mail:suporte@exemplo.com ou ligue para (00)1234-5678
+Autora do manual e projeto Danubia Alves
