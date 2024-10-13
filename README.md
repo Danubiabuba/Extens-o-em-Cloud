@@ -29,9 +29,6 @@ Atualmente, o sistema não permite alterações no nome de usuário. Para altera
 
 ## 5. Contato e Suporte
 Para suporte, entre em contato pelo e-mail:suporte@exemplo.com ou ligue para (00)1234-5678
-<<<<<<< HEAD
 
 ⌨️ com ❤️ por Danubia Alves 😊
-=======
 ## Autora do manual e projeto Danubia Alves
->>>>>>> 5f5572086695f9c5d74d79f30adbbd61811e979a
