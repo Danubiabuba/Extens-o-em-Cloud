@@ -1,0 +1,39 @@
+# Node.js
+
+# Ignorar dependências do Node (geradas automaticamente)
+node_modules/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos de configuração locais
+.env
+.env.*  # Para variáveis de ambiente em diferentes ambientes (ex: .env.production)
+
+# Arquivos de build (gerados por ferramentas de build)
+build/
+dist/
+
+# Diretórios de cache
+.cache/
+
+# Arquivos temporários de editores de código
+.idea/           # JetBrains IDEs (IntelliJ, WebStorm, PhpStorm, etc.)
+.vscode/         # Visual Studio Code
+*.sublime-workspace
+*.sublime-project
+
+# Arquivos de sistema operacional
+.DS_Store       # macOS
+Thumbs.db       # Windows
+
+# Arquivos de banco de dados locais
+*.sqlite
+*.db
+
+# Arquivos de backup de editores
+*~
+*.bak
+*.swp
