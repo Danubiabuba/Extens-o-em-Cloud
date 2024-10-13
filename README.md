@@ -19,7 +19,8 @@ Bem-vindo ao Sistema de Cadastro e Login! Este sistema permite que os usuários 
 2. Insira seu nome de usuário e senha.
 3. Clique em "Entrar".
 4. Você será redirecionado para a página inicial se as credenciais estiverem corretas.
-5. <img src="../Extensao-em-Cloud/img/login.png" alt="Tela de Login">
+5. ![login](https://github.com/user-attachments/assets/7e51d296-dc5d-44e9-b3db-fbbcef1fe12b)
+
 
 
 ## 4. FAQ (Perguntas Frequntes)
@@ -30,3 +31,4 @@ Atualmente, o sistema não permite alterações no nome de usuário. Para altera
 Para suporte, entre em contato pelo e-mail:suporte@exemplo.com ou ligue para (00)1234-5678
 
 ⌨️ com ❤️ por Danubia Alves 😊
+## Autora do manual e projeto Danubia Alves
